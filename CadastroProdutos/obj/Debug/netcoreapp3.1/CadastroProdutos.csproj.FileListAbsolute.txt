@@ -1,0 +1,13 @@
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.exe
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.deps.json
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.runtimeconfig.json
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.runtimeconfig.dev.json
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.dll
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\bin\Debug\netcoreapp3.1\CadastroProdutos.pdb
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.csprojAssemblyReference.cache
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.AssemblyInfo.cs
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.dll
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.pdb
+C:\Users\Otávio estudos\Documents\Vivobook GitHub\C-Sharp\ExercíciosAulaCamillo\Estágio Manager Saúde\Desafio Final (100 pontos)\CadastroProdutos\obj\Debug\netcoreapp3.1\CadastroProdutos.genruntimeconfig.cache

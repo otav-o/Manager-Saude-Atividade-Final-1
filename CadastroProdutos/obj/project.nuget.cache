@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zc/GmoPyZ+FDyZomFcsrjSj3pbGfxUZcEkNikRP9ztWVE/30M8Nw22uuuT6O/hEN5bNfvX66kPE0NEvFGSGIlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Otávio estudos\\Documents\\Vivobook GitHub\\C-Sharp\\ExercíciosAulaCamillo\\Estágio Manager Saúde\\Desafio Final (100 pontos)\\CadastroProdutos\\CadastroProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Otávio estudos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Otávio estudos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
